@@ -16,3 +16,9 @@
   - https://orc.apache.org/docs/
 - Arrow Guide
   - https://arrow.apache.org/docs/python/getstarted.html
+
+### Foundation
+
+- [Introduction to XML](https://www.guru99.com/xml-tutorials.html)
+- [Client-Server Model](https://www.geeksforgeeks.org/client-server-model/)
+- [REST API](https://dev.to/thabisegoe/a-simple-introduction-to-rest-and-how-to-get-started-2580)
